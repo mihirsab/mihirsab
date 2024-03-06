@@ -1,5 +1,5 @@
 # Hi, I'm Mihir Sabnis welcome to my GitHub! 👋  
-I'm a Data Scientist and Data Storyteller 📊
+## I'm a Data Scientist and Data Storyteller 📊
 =====================================
 Dedicated data enthusiast committed to advancing data-driven product development through continuous learning and leveraging cutting-edge technology.
 ------------------------------------
@@ -9,7 +9,7 @@ Dedicated data enthusiast committed to advancing data-driven product development
 <p align="left"> <a href="mailto:mihirraj@marshall.usc.edu" target="_blank" rel="noreferrer"><img src="https://gist.githubusercontent.com/PranoyBu/d3a635ca00fb890856ad2b12a2f92a0a/raw/mail.svg" width="32" height="32" /></a> <a href="https://www.github.com/mihirsab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mihirrsabnis/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### My Resume  
-*Resume Link:* [Resume](https://drive.google.com/file/d/1i-NIzlBHuM1QsxqTIcWXhM8G0u3NitpO/view?usp=sharing)
+### *Resume Link:* [Resume](https://drive.google.com/file/d/1i-NIzlBHuM1QsxqTIcWXhM8G0u3NitpO/view?usp=sharing)
 ------------------------------------
 I have strong experience in advanced data analytics, statistics and visualization. I have experience in the global retail, private financial, and healthcare technology industries. I have experience working as a technology consulting analyst across various industries and management consulting to build products and features for small and medium businesses. I value diversity in idea, conversation and collaboration.
 
