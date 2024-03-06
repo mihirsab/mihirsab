@@ -11,9 +11,9 @@
 ### My Resume  
 ### *Resume Link:* [Resume](https://drive.google.com/file/d/1i-NIzlBHuM1QsxqTIcWXhM8G0u3NitpO/view?usp=sharing)
 ------------------------------------
-I have strong experience in advanced data analytics, statistics and visualization. I have experience in the global retail, private financial, and healthcare technology industries. I have experience working as a technology consulting analyst across various industries and management consulting to build products and features for small and medium businesses. I value diversity in idea, conversation and collaboration.
+I have strong experience in advanced data analytics, statistics, and visualization. I have experience in the global retail, private financial, and healthcare technology industries. I have experience working as a technology consulting analyst across various industries and management consulting to build products and features for small and medium businesses. I value diversity in ideas, conversation, and collaboration.
 
-I am currently pursuing my Masters in Business Analytics at the Marshall School of Business @USC, concentrating on advanced statistics domain knowledge, machine learning for data-driven products, and deep learning. I am looking to leverage my data science skills to help create creative solutions that deliver long-lasting value and equity.
+I am currently pursuing my master's in Business Analytics at the Marshall School of Business @USC, concentrating on advanced statistics domain knowledge, machine learning for data-driven products, and deep learning. I am looking to leverage my data science skills to help create creative solutions that deliver long-lasting value and equity.
 
 ### Skills
 
